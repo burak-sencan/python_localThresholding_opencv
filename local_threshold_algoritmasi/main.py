@@ -1,6 +1,6 @@
 """
 Bu çalısmada local threshold degeri bulmak için basitce resmi bloklara ayıran
-bu blokların ortalamasını local thresgold degeri olarak hesaplayan ve bu değeri
+bu blokların ortalamasını local threshold degeri olarak hesaplayan ve bu değeri
 ilgili bloga uygulayan local threshold algoritması geliştirilmiştir.
 
 not resim kare olmalıdır ve 2,3,5 in katları olmalıdır.
