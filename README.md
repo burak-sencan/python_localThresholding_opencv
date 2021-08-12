@@ -1,6 +1,6 @@
 # python_goruntu_isleme(Opencv)
 
-Bu projede görüntüleri binary hale çevirirken oluşan veri kaybi için local threshold hesaplayan algoritma geliştirilmiştir.
+Bu projede görüntüleri binary hale çevirirken oluşan veri kaybi için local threshold uygulayan algoritma geliştirilmiştir.
 
 1. Bölüm Algoritma Çalışma Mantığı
     
